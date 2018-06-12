@@ -1,6 +1,7 @@
 # Demo Animation Flutter
 
-Video: https://www.youtube.com/watch?v=l1DoUFsEQnU
+### Video: https://www.youtube.com/watch?v=l1DoUFsEQnU
+### Guide: https://medium.com/@duytq94/restaurant-animation-with-flutter-cbe704b4e20f
 
 ## Screenshots:
 
